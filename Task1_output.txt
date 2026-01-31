@@ -1,0 +1,85 @@
+=== FILE HANDLING UTILITY OUTPUT ===
+Student: RUTUJA PANDHARI KUTHE - ENTC Engineering
+CODTECH IT SOLUTIONS Internship - Task 1
+
+=== DEMONSTRATING FILE OPERATIONS ===
+
+1. CREATING AND WRITING TO FILE
+Creating sample file: sample_data.txt
+✓ Sample file created successfully
+
+2. READING FROM FILE
+Reading file: sample_data.txt
+--- File Content ---
+ 1: Welcome to File Handling Utility
+ 2: This is a Java program for file operations
+ 3: Created by RUTUJA PANDHARI KUTHE
+ 4: CODTECH IT SOLUTIONS Internship
+ 5: Task-1: File Handling Operations
+ 6: 
+ 7: Features demonstrated:
+ 8: - Reading files
+ 9: - Writing files
+10: - Modifying files
+11: - File information retrieval
+✓ File read successfully
+
+3. APPENDING TO FILE
+Appending to file: sample_data.txt
+✓ Content appended successfully
+
+4. COPYING FILE
+Copying file: sample_data.txt → output_data.txt
+✓ File copied successfully
+
+5. MODIFYING FILE CONTENT
+Modifying file content: output_data.txt → modified_data.txt
+✓ File content modified successfully
+  - Replaced 'Java' with 'JAVA Programming'
+  - Added timestamp to first line
+
+6. FILE INFORMATION
+File information for: modified_data.txt
+  File name: modified_data.txt
+  File path: c:\Users\rutuj\OneDrive\Desktop\rutuja\CODTECH\modified_data.txt
+  File size: 471 bytes
+  Last modified: Sat Jan 31 12:51:33 IST 2026
+  Readable: true
+  Writable: true
+  Is file: true
+
+7. SEARCHING IN FILE
+Searching for 'Java' in file: modified_data.txt
+  Line 2: This is a JAVA Programming program for file operations
+✓ Search completed. Found 1 matches.
+
+8. FILE STATISTICS
+File statistics for: modified_data.txt
+  Lines: 18
+  Words: 67
+  Characters: 435
+✓ Statistics calculated successfully
+
+=== FILE HANDLING COMPLETED ===
+
+--- MODIFIED FILE CONTENT (modified_data.txt) ---
+Welcome to File Handling Utility [Modified: Sat Jan 31 12:51:33 IST 2026]
+This is a JAVA Programming program for file operations
+Created by RUTUJA PANDHARI KUTHE
+CODTECH IT SOLUTIONS Internship
+Task-1: File Handling Operations
+
+Features demonstrated:
+- Reading files
+- Writing files
+- Modifying files
+- File information retrieval
+
+--- APPENDED CONTENT ---
+Additional file operations:
+- Appending data
+- File copying
+- Content modification
+- Statistical analysis
+
+=== END OF OUTPUT ===
